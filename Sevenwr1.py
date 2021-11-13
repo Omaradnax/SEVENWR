@@ -1,13 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-        
-        
-        #############################################
-        #                                           #
-        #    Facebook BruteForce, by OMAR-SEVENWR     #
-        #    FACEBOOK Contact:     Omar Adnan      #
-        #                                           #
-        #############################################
 
 
 import time
@@ -35,7 +25,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-print '\n###############BlackMafia LoveHacker##############\n'
+print '\n#####omaradnan#####\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
